@@ -13,6 +13,7 @@
 
 PuTTY is needed to to SSH into the virtual machine through the host machine
 You can download it according to the operating systems as follows:
+
 `For Windows`
 
 https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
